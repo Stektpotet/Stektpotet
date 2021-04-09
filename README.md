@@ -1,12 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stektpotet&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 🎮 Game Development Enthusiast
-- :e
-- 👀 Open source contributor
-- 👾 Kubernetes, .NET Core and Next.js
-- 👑 HotChocolate, MassTransit and Quartz
-- 🤝 Always open for cooperation
-- ❤️ Cats 😸, whales 🐳 and guitars 🎸
+- 🎮 Game Development Hobbyist & Enthusiast
+- 🤖 AI Enthusiast
+- 🌊 Shader Programmer
+- 🧰 Maker of utilities & miniprojects
 
 <br>
 
