@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=stektpotet&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-<!--
-**Stektpotet/Stektpotet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎮 Game Development Enthusiast
+- :e
+- 👀 Open source contributor
+- 👾 Kubernetes, .NET Core and Next.js
+- 👑 HotChocolate, MassTransit and Quartz
+- 🤝 Always open for cooperation
+- ❤️ Cats 😸, whales 🐳 and guitars 🎸
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=stektpotet&theme=flat&no-frame=true&margin-w=30" />
+</div>
