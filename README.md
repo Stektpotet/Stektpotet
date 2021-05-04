@@ -8,5 +8,5 @@
 <br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=stektpotet&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=stektpotet&theme=dracula&no-frame=false&no-bg=false&column=7" />
 </div>
