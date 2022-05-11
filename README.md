@@ -10,5 +10,6 @@
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=stektpotet&theme=dracula&margin-w=35&no-frame=false&no-bg=false&column=7" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stektpotet&theme=dracula&margin-w=35&hide=html&no-frame=false&no-bg=false&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stektpotet&theme=dracula&margin-w=35&hide=html&no-frame=false&no-bg=false&langs_count=4" />
+</div>
